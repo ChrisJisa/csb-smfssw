@@ -1,0 +1,34 @@
+{
+  "files": {
+    "static/js/0.e4643634.chunk.js": "https://.github.io/csb-smfssw/static/js/0.e4643634.chunk.js",
+    "main.css": "https://.github.io/csb-smfssw/static/css/main.9bc6d313.chunk.css",
+    "main.js": "https://.github.io/csb-smfssw/static/js/main.9d40b5ef.chunk.js",
+    "runtime-main.js": "https://.github.io/csb-smfssw/static/js/runtime-main.080a1dfa.js",
+    "static/js/3.7fcf0de4.chunk.js": "https://.github.io/csb-smfssw/static/js/3.7fcf0de4.chunk.js",
+    "static/js/4.f9af6604.chunk.js": "https://.github.io/csb-smfssw/static/js/4.f9af6604.chunk.js",
+    "static/js/5.76a26bca.chunk.js": "https://.github.io/csb-smfssw/static/js/5.76a26bca.chunk.js",
+    "static/js/6.fd7a8dd9.chunk.js": "https://.github.io/csb-smfssw/static/js/6.fd7a8dd9.chunk.js",
+    "static/js/7.b1331a1d.chunk.js": "https://.github.io/csb-smfssw/static/js/7.b1331a1d.chunk.js",
+    "static/js/8.af17591c.chunk.js": "https://.github.io/csb-smfssw/static/js/8.af17591c.chunk.js",
+    "static/js/9.6e5bc6a4.chunk.js": "https://.github.io/csb-smfssw/static/js/9.6e5bc6a4.chunk.js",
+    "static/js/10.42a46304.chunk.js": "https://.github.io/csb-smfssw/static/js/10.42a46304.chunk.js",
+    "static/js/11.e7014088.chunk.js": "https://.github.io/csb-smfssw/static/js/11.e7014088.chunk.js",
+    "index.html": "https://.github.io/csb-smfssw/index.html",
+    "precache-manifest.313c4ac9e2fcd3bb244109d0045d7044.js": "https://.github.io/csb-smfssw/precache-manifest.313c4ac9e2fcd3bb244109d0045d7044.js",
+    "service-worker.js": "https://.github.io/csb-smfssw/service-worker.js",
+    "static/js/3.7fcf0de4.chunk.js.LICENSE.txt": "https://.github.io/csb-smfssw/static/js/3.7fcf0de4.chunk.js.LICENSE.txt",
+    "static/js/5.76a26bca.chunk.js.LICENSE.txt": "https://.github.io/csb-smfssw/static/js/5.76a26bca.chunk.js.LICENSE.txt",
+    "static/js/6.fd7a8dd9.chunk.js.LICENSE.txt": "https://.github.io/csb-smfssw/static/js/6.fd7a8dd9.chunk.js.LICENSE.txt",
+    "static/js/7.b1331a1d.chunk.js.LICENSE.txt": "https://.github.io/csb-smfssw/static/js/7.b1331a1d.chunk.js.LICENSE.txt",
+    "static/js/8.af17591c.chunk.js.LICENSE.txt": "https://.github.io/csb-smfssw/static/js/8.af17591c.chunk.js.LICENSE.txt",
+    "static/media/chef.png": "https://.github.io/csb-smfssw/static/media/chef.ec78e8e8.png",
+    "static/media/metamask-fox.svg": "https://.github.io/csb-smfssw/static/media/metamask-fox.c06f3a3e.svg",
+    "static/media/wallet-connect.svg": "https://.github.io/csb-smfssw/static/media/wallet-connect.37f2bc6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.080a1dfa.js",
+    "static/js/3.7fcf0de4.chunk.js",
+    "static/css/main.9bc6d313.chunk.css",
+    "static/js/main.9d40b5ef.chunk.js"
+  ]
+}
